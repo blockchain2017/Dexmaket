@@ -2,9 +2,12 @@
 
 <div align="center"><img src="https://dexmarket.pro/swapexchange/assets/img/artlogo.png" /><br />
 </div>
-<div align="center"><br />
-<a href="https://www.dexmarket.co/" target="_blank">GO TO PLATFORM<br />
-</a></div>
+<div align="center">
+  <h1><br />
+    <a href="https://www.dexmarket.co/" target="_blank">GO TO PLATFORM<br />
+    </a></h1>
+</div>
+
 
 Access to high-precision data and real-time updates will make you always beat the competition. Dexmarket has it for you.
 
