@@ -1,6 +1,9 @@
 # Dexmarket cryptocurrency Live Platform
 
-<div align="center"><img src="https://dexmarket.pro/swapexchange/assets/img/artlogo.png" /></div>
+<div align="center"><img src="https://dexmarket.pro/swapexchange/assets/img/artlogo.png" /><br />
+</div>
+<div align="center"><br />
+<a href="https://www.dexmarket.co/" target="_blank">GO TO PLATFORM</a></div>
 
 Access to high-precision data and real-time updates will make you always beat the competition. Dexmarket has it for you.
 
