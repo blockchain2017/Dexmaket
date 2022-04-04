@@ -6,7 +6,6 @@
 <div align="center"><br />
   <div align="center">
   <a href="https://www.dexmarket.co/" target="_blank"><img src="https://dexmarket.pro/swapexchange/assets/img/dexmarket-live.fw.png" /></a><br />
-  <br />
 </div>
 
 Access to high-precision data and real-time updates will make you always beat the competition. Dexmarket has it for you.
