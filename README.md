@@ -2,9 +2,13 @@
 
 <div align="center"><img src="https://dexmarket.pro/swapexchange/assets/img/artlogo.png" /><br />
 </div>
+<div align="center">
 <div align="center"><br />
-<a href="https://www.dexmarket.co/" target="_blank">GO TO PLATFORM</a></div>
-<br>
+  <div align="center">
+  <a href="https://www.dexmarket.co/" target="_blank"><img src="https://dexmarket.pro/swapexchange/assets/img/dexmarket-live.fw.png" /></a><br />
+  <br />
+</div>
+
 Access to high-precision data and real-time updates will make you always beat the competition. Dexmarket has it for you.
 
 Cryptocurrency It is a market with high growth rates. Trading every second, 24 hours a day, no holidays. If you get accurate and fast information Your investment will be successful, Dexmarket has the tools for you.
